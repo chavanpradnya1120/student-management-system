@@ -12,7 +12,7 @@ logs/
 
 # Environment Files
 .env
-application-prod.properties
+
 
 # STS
 .apt_generated
